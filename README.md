@@ -37,12 +37,10 @@ Aqui estão algumas imagens da planilha para ilustrar a ferramenta:
 ### Exemplo de lançamento de entrada  
 ![Lançamento de Entrada](./images/lancamento-entrada.png)
 
-> **Nota:** As imagens estão na pasta `/images` do repositório. Para adicionar suas próprias capturas, basta colocar as imagens na pasta e atualizar os nomes nos links acima.
 
 ## 🔗 Links Externos
 
-- [Perfil no LinkedIn do Criador](https://www.linkedin.com/in/eugustavocardoso/) *(substitua pelo seu link real)*
-
+- [Perfil no LinkedIn do Criador](https://www.linkedin.com/in/eugustavocardoso/)
 ## 🚀 Como Usar
 
 1. Baixe o arquivo `imposto_de_renda.xlsx`  
